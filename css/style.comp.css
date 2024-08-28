@@ -435,7 +435,7 @@ body {
 @media only screen and (max-width: 37.5em) {
   .gallery {
     grid-gap: 0.5rem;
-    padding: 0.5rem;
+    padding: 1rem;
   }
 }
 .gallery__item--1 {
